@@ -1,10 +1,10 @@
 [Desktop Entry]
 Type=Application
-Icon=/home/user/arduino-ide-2/logo.png
+Icon=/home/user/Arduino2/logo.png
 Name=Arduino IDE 2
 Terminal=false
 Hidden=false
 Categories=Development; IDE; Electronics
-Exec=/home/user/arduino-ide-2/arduino-ide-2.AppImage
-Path=/home/user/arduino-ide-2
+Exec=/home/user/Arduino2/arduino-ide-2.AppImage
+Path=/home/user/Arduino2
 StartupWMClass=arronax
