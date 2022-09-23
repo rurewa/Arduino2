@@ -1,4 +1,4 @@
-### Colobot-0.1.12-alpha-x86_64.AppImage
+### arduino-ide_2.0.0_Linux_64bit.AppImage
 
 **Сжать архив на равные тома**
 
